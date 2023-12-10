@@ -1,7 +1,7 @@
 ---@type ChadrcConfig
 local M = {}
 
-M.ui = { 
+M.ui = {
   theme = 'radium',
   hl_override = {
     CursorLine = {
